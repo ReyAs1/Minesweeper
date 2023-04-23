@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\Asus\source\repos\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\Asus\source\repos\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\Asus\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Sapper\Sapper\obj\Debug\Sapper.Form1.resources
+C:\Users\Asus\source\repos\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\Asus\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\Asus\source\repos\Sapper\Sapper\obj\Debug\Sapper.pdb
